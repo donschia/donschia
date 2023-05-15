@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 
-FetchXml DetailsList!
+A new PCF Custom Control ... [FetchXml DetailsList](https://github.com/donschia/FetchXmlDetailsList)!
 
 <!--
 **donschia/donschia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
